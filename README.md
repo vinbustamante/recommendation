@@ -3,6 +3,7 @@
 to test
 ```
 npm test
+# after running the test open coverage/lcov-report/index.html for detail coverage
 ```
 
 link to <a href='coverage/lcov-report/index.html'>Detail Test Coverage</a> <br/>
